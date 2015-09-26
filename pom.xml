@@ -42,4 +42,7 @@
 			<version>1.8.3</version>
 		</dependency>
 	</dependencies>
+	<modules>
+		<module>search-app</module>
+	</modules>
 </project>
